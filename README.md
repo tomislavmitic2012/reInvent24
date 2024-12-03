@@ -6,3 +6,4 @@ Notes from ReInvent
 * [Containers or serverless](containers_serverless.md)
 * [Seamless large-scale migration and modernization with hyperautomation](hyperautomation.md)
 * [EKS as data platform for analytics](eks_analytics.md)
+* [AWS Storage Services](storage.md)
