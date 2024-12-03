@@ -5,3 +5,4 @@ Notes from ReInvent
 * [How to configure an HPC cluster](hpc.md)
 * [Containers or serverless](containers_serverless.md)
 * [Seamless large-scale migration and modernization with hyperautomation](hyperautomation.md)
+* [EKS as data platform for analytics](eks_analytics.md)
