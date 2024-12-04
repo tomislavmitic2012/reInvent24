@@ -156,5 +156,7 @@
     * Use an SHS helm chart
     * AWS Cloudwatch (single pane of glass)
         * allows for better cost attribution
-        * split cost allocation data
+        * split cost allocation dataa
+
+* Data on EKS TF templates
 
