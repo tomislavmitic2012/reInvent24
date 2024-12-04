@@ -7,3 +7,5 @@ Notes from ReInvent
 * [Seamless large-scale migration and modernization with hyperautomation](hyperautomation.md)
 * [EKS as data platform for analytics](eks_analytics.md)
 * [AWS Storage Services](storage.md)
+* [Architectural Methods for Innovative Apps in the cloud](innovative.md)
+* [Generatice AI on EKS](generative.md)
