@@ -9,3 +9,4 @@ Notes from ReInvent
 * [AWS Storage Services](storage.md)
 * [Architectural Methods for Innovative Apps in the cloud](innovative.md)
 * [Generatice AI on EKS](generative.md)
+* [EKS for edge and hybrid cases](eks_hybrid.md)
