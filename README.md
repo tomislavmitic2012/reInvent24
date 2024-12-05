@@ -12,3 +12,4 @@ Notes from ReInvent
 * [EKS for edge and hybrid cases](eks_hybrid.md)
 * [Amazon TimeSync](timesync.md)
 * [Data Pipelines on EKS](pipelines.md)
+* [Choosing Right AWS Storage](right_storage.md)
