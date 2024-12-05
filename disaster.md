@@ -43,6 +43,7 @@
     * Realtime stream processing built out
     * Apache KAfka Managed steream processing
     * Elastic Container Service
+        * Heavy use of fargate
 
 * Benefits
     * Horizonal Scalability and Fault Tolerance
