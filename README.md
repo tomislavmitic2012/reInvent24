@@ -14,3 +14,4 @@ Notes from ReInvent
 * [Data Pipelines on EKS](pipelines.md)
 * [Choosing Right AWS Storage](right_storage.md)
 * [AWS for Natural Disaster Warning](disaster.md)
+* [Building an integration strategy for the future](future.md)
