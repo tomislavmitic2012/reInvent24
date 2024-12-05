@@ -13,3 +13,4 @@ Notes from ReInvent
 * [Amazon TimeSync](timesync.md)
 * [Data Pipelines on EKS](pipelines.md)
 * [Choosing Right AWS Storage](right_storage.md)
+* [AWS for Natural Disaster Warning](disaster.md)
