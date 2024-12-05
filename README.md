@@ -15,3 +15,4 @@ Notes from ReInvent
 * [Choosing Right AWS Storage](right_storage.md)
 * [AWS for Natural Disaster Warning](disaster.md)
 * [Building an integration strategy for the future](future.md)
+* [Build a cloud-powered cross-platform app with AWS Amplify](amplify.md)
