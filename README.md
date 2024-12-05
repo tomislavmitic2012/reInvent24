@@ -16,3 +16,4 @@ Notes from ReInvent
 * [AWS for Natural Disaster Warning](disaster.md)
 * [Building an integration strategy for the future](future.md)
 * [Build a cloud-powered cross-platform app with AWS Amplify](amplify.md)
+* [Building, operating, and testing resilient Multi-AZ applications](resiliant.md)
